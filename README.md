@@ -2,7 +2,7 @@
 
 Dokumentasi proyek Mitetaki.
 
-**Nama Kelompok:** Kelompok [Isi Nama/Nomor Kelompok]
+**Nama Kelompok:** Kelompok [MITETAKI]
 
 ## Anggota Kelompok
 1. Sekar Aulia Putri Al Fajri (@sekarauliaa24-maker)
